@@ -1,0 +1,2 @@
+class SlotLimitExceedException(Exception):
+    pass

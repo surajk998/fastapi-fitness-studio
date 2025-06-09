@@ -1,0 +1,11 @@
+databases[aiosqlite]
+fastapi
+fastapi-pagination
+httpx 
+passlib[bcrypt]
+pydantic-settings
+pyjwt
+pytest 
+python-dotenv
+sqlalchemy
+uvicorn[standard]
